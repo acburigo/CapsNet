@@ -9,4 +9,4 @@ Although the paper reports an accuracy of 99.75%, this implementation currently 
 111 seconds per epoch on a single Titan Xp GPU.
 
 ### Number of Parameters
-Number of Parameters: 8141840
+Model has 8141840 parameters.
