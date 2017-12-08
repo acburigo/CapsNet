@@ -3,7 +3,7 @@ This is a [pytorch](http://pytorch.org/) implementation of CapsNet, described in
 
 ## MNIST
 ### Accuracy
-Although the paper reports an accuracy of *99.75%*, this implementation currently reaches an accuracy of around **99.6%**.
+Although the paper reports an accuracy of *99.75%*, the maximum accuracy achieved by this implementation was **99.68%**.
 
 ### Execution Speed
 111 seconds per epoch on a single Titan Xp GPU.
